@@ -9,7 +9,7 @@ use Tkx::ROText;
 use Tkx::Scrolled;
 use Text::TabularDisplay;
 
-#  dbterm.rb
+#  dbterm.pl
 #  
 #  Copyright 2013 jordonr <jordonr@dev-linux>
 #  
